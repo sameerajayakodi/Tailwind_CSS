@@ -1,12 +1,13 @@
 import './App.css'
-import Bento1 from './components/Bento1'
+import Bento2 from './components/Bento2'
 
 function App() {
   
 
   return (
     <>
-      <Bento1/>
+      {/* <Bento1/> */}
+      <Bento2/>
     </>
   )
 }
